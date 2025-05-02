@@ -1,0 +1,24 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# API Keys or secrets (don't store them directly)
+*.env
+
+# Model files
+*.ppn
+
+# Wheel or package files
+*.whl
